@@ -1,0 +1,7 @@
+/home/fyx/git-workspace/ACM/acm/build/CMakeFiles/install.dir
+/home/fyx/git-workspace/ACM/acm/build/CMakeFiles/list_install_components.dir
+/home/fyx/git-workspace/ACM/acm/build/CMakeFiles/rebuild_cache.dir
+/home/fyx/git-workspace/ACM/acm/build/CMakeFiles/acm.dir
+/home/fyx/git-workspace/ACM/acm/build/CMakeFiles/edit_cache.dir
+/home/fyx/git-workspace/ACM/acm/build/CMakeFiles/install/strip.dir
+/home/fyx/git-workspace/ACM/acm/build/CMakeFiles/install/local.dir

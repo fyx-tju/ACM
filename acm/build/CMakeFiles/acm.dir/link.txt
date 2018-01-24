@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/acm.dir/acm.cpp.o CMakeFiles/acm.dir/main.cpp.o  -o acm -rdynamic -lQtCore -lQtGui 
